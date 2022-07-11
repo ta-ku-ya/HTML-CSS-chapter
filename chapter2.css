@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.h1 {
+  color: orange;
+  padding: 20px 0;
+
+.h2 {
+padding: 20px 0;
+}
+p {
+  padding: 20px 0;
+}
+a {
+  padding: 20px 0;
+}
