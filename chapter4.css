@@ -3,12 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
-.main-visual {
+.header {
   width: 100%;
   height: 50px;
   background-color: red;
 }
-.main-content {
+.main-visual {
   width: 100%;
   height: 500px;
   background-color: orange;
@@ -18,6 +18,7 @@
   margin: 0 auto;
   display: flex;
   justify-content: center;
+  
 }
 .sidebar-left {
   width: 230px;
@@ -27,7 +28,7 @@
 .blog {
   width: 500px;
   height: 1400px;
-  background-color: green;
+  background-color: limegreen;
 }
 .sidebar-right {
   width: 230px;
